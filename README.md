@@ -46,4 +46,9 @@ Ich habe jetzt mal den Anfang gemacht und für alle Software- und Elektronik-Ner
 - Vorhersage der PV-Leistung (1-2 Tage)
 - Eure Ideen ?
 
-..demnächst auf  https://github.com/raibisch/smart_grid
+  aktuelle smart_grid Projekte:
+  
+  https://github.com/raibisch/ESP32_ABL   (ABL-Wallbox Web-APP)
+
+  https://github.com/raibisch/ESP32_SMART_GRID (...noch in Arbeit)
+  
