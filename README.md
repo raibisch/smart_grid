@@ -1,6 +1,8 @@
 # smart_grid
 Ideen rund um Smart-Grid
 
+[english version](/readme_en.md)
+
 ## Dynamischer Strompreis mit Preisbremse ?
 
 "dynamische Strompreise" ...was ist das ? ...gibt es das auch für mich?  ...will ich das? ... Chancen und Risiken ?
