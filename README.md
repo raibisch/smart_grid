@@ -52,5 +52,8 @@ Ich habe jetzt mal den Anfang gemacht und für alle Software- und Elektronik-Ner
   
   https://github.com/raibisch/ESP32_ABL   (ABL-Wallbox Web-APP)
 
-  https://github.com/raibisch/ESP32_SMART_GRID (...noch in Arbeit)
+  https://github.com/raibisch/ESP32_SMART_GRID
+
+  https://github.com/raibisch/ESP32_Luxtronik2
+  
   
